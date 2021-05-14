@@ -4,4 +4,4 @@ meu discord: Dodecágono#4615
                    ou
              Dodecágono#0012
              
-             https://github.com/Dodecagono/Dodecagono/blob/main/C-Sharp.png
+             !(eae)[https://github.com/Dodecagono/Dodecagono/blob/main/C-Sharp.png?raw=true]
