@@ -1,4 +1,4 @@
-eae, eu programo C#, futuramente pretendo ser desenvolvedor de jogos na Unity
+eae, eu programo C++, também sei C#, futuramente pretendo ser desenvolvedor de jogos na Unreal
 meu canal do YT é: https://www.youtube.com/channel/UCQpdZgs7s818D90ceIFm0cQ
 meu discord: Dodecágono#4615
                    ou
